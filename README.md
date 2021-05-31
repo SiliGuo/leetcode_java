@@ -1,1 +1,4 @@
-# leetcode_java
+# leetcode practice
+
+## Array
+1. Two Sum
